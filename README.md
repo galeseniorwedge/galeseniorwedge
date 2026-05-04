@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Recent projects
+
+<!-- DEVIN-AUTO-PINS-START -->
+- [cs2-helper-tool-v2](https://github.com/galeseniorwedge/cs2-helper-tool-v2) — The cs2 helper tool is a software module designed for gamers and developers to enhance their experience. It provides a s
+<!-- DEVIN-AUTO-PINS-END -->
