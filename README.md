@@ -1,31 +1,20 @@
-## Hi there 👋
+# 👋 Hey there
 
-<!--
-**galeseniorwedge/galeseniorwedge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer who loves building tools that solve real problems.
 
-Here are some ideas to get you started:
+### Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Anti-cheat research
+- DirectX/OpenGL drawing
+- Driver development
+- Native UI
 
-## Recent projects
+### Tech stack
 
-<!-- DEVIN-AUTO-PINS-START -->
-- [cs2-game-tool](https://github.com/galeseniorwedge/cs2-game-tool) — This tool is designed for gamers and developers to enhance their experience with the cs2 game. It provides a set of feat
-- [counter-strike-tool-v2](https://github.com/galeseniorwedge/counter-strike-tool-v2) — The Counter Strike 2 tool is a module designed for gamers and developers to enhance their experience. It provides a rang
-- [valorant-helper-tool](https://github.com/galeseniorwedge/valorant-helper-tool) — The Valorant Helper Tool is a utility designed for gamers and developers to enhance their experience with the game. It p
-- [cs2-helper-tool-v2](https://github.com/galeseniorwedge/cs2-helper-tool-v2) — The cs2 helper tool is a software module designed for gamers and developers to enhance their experience. It provides a s
-<!-- DEVIN-AUTO-PINS-END -->
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![VisualStudio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
+### GitHub stats
 
+![galeseniorwedge's GitHub stats](https://github-readme-stats.vercel.app/api?username=galeseniorwedge&show_icons=true&hide_border=true&theme=transparent)
 
----
-
-**See also**: [counter-strike-tool-v2](https://github.com/galeseniorwedge/counter-strike-tool-v2)
+*Made with caffeine and stack overflow.*
