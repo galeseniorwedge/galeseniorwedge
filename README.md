@@ -18,3 +18,7 @@ I'm a self-taught developer who loves building tools that solve real problems.
 ![galeseniorwedge's GitHub stats](https://github-readme-stats.vercel.app/api?username=galeseniorwedge&show_icons=true&hide_border=true&theme=transparent)
 
 *Made with caffeine and stack overflow.*
+
+---
+
+**See also**: [math-tool-kit](https://github.com/galeseniorwedge/math-tool-kit)
